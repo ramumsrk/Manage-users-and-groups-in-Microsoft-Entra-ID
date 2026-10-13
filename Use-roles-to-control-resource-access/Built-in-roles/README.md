@@ -1,0 +1,2 @@
+# Built-in roles
+[Examine RBAC and user roles in Microsoft Entra ID.](https://learn.microsoft.com/en-us/training/modules/manage-identities-azure-active-directory/2-examine-rbac-user-roles-azure-active-directory)

@@ -1,0 +1,2 @@
+# DataActions and NotDataActions
+1. [full list of actions and data actions in the resource provider documentation](https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations)

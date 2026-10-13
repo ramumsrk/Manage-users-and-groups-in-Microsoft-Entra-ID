@@ -1,0 +1,1 @@
+# Built-in roles for Azure Resources (uses PowerShell)
